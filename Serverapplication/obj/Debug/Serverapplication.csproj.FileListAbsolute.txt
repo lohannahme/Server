@@ -1,0 +1,7 @@
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\bin\Debug\Serverapplication.exe.config
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\bin\Debug\Serverapplication.exe
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\bin\Debug\Serverapplication.pdb
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\obj\Debug\Serverapplication.csprojAssemblyReference.cache
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\obj\Debug\Serverapplication.csproj.CoreCompileInputs.cache
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\obj\Debug\Serverapplication.exe
+C:\Users\hanna\OneDrive\Documentos\Trabalhos faculdade\server\Serverapplication\obj\Debug\Serverapplication.pdb
